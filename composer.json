@@ -1,0 +1,15 @@
+{
+    "name": "kobee/bolo",
+    "authors": [
+        {
+            "name": "misho koberidze",
+            "email": "kobe@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "."
+        }
+    }
+}
